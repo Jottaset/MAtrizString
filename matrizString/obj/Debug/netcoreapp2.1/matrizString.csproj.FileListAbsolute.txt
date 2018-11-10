@@ -1,0 +1,11 @@
+/Users/aluno/Projects/matrizString/matrizString/obj/Debug/netcoreapp2.1/matrizString.csprojAssemblyReference.cache
+/Users/aluno/Projects/matrizString/matrizString/obj/Debug/netcoreapp2.1/matrizString.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/matrizString/matrizString/obj/Debug/netcoreapp2.1/matrizString.AssemblyInfoInputs.cache
+/Users/aluno/Projects/matrizString/matrizString/obj/Debug/netcoreapp2.1/matrizString.AssemblyInfo.cs
+/Users/aluno/Projects/matrizString/matrizString/bin/Debug/netcoreapp2.1/matrizString.deps.json
+/Users/aluno/Projects/matrizString/matrizString/bin/Debug/netcoreapp2.1/matrizString.runtimeconfig.json
+/Users/aluno/Projects/matrizString/matrizString/bin/Debug/netcoreapp2.1/matrizString.runtimeconfig.dev.json
+/Users/aluno/Projects/matrizString/matrizString/bin/Debug/netcoreapp2.1/matrizString.dll
+/Users/aluno/Projects/matrizString/matrizString/bin/Debug/netcoreapp2.1/matrizString.pdb
+/Users/aluno/Projects/matrizString/matrizString/obj/Debug/netcoreapp2.1/matrizString.dll
+/Users/aluno/Projects/matrizString/matrizString/obj/Debug/netcoreapp2.1/matrizString.pdb
